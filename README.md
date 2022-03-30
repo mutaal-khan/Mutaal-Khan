@@ -1,4 +1,5 @@
-[![Header](https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/readme_header.png"Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/Mutaal-Khan/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 
 - 👋 Hi, I’m @Mutaal-Khan
 - 👀 I’m interested in ...
