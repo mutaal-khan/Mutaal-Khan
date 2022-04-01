@@ -1,6 +1,6 @@
 [<p align="center"><img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/readme_header.png" /></p>](https://www.google.com/)
 - 👋 Hi, I’m @Mutaal-Khan
-- This currently Under construction.
+- This page is currently Under construction.
 - 
 <!---
 
