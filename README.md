@@ -24,22 +24,45 @@ I'm glad we are here together and we are trying to make progress.
     Section: Currently Learning
     ----------------------------
 -->
+## Currently Learning
+- SASS
+- JavaScript
 <!--
     -----------------------
     Section: Interested in
     -----------------------
 -->
+## Interested in Learning
+- Bootstrap
+- Foundation
+- JQuery
+- GitHub
+- Git
+- React
+- Node.js
+- Vue.js
+- Flutter
+- Python
+- Adobe Illustration
+- Photoshope
 <!--
     -------------------------
     Section: Recent Projects
     -------------------------
 -->
+## Recent Projects
+- Password Generator
+- X-Space VPN
+- KOX Slider
 
 <!--
     -------------------------
     Section: How to reach me
     -------------------------
 -->
+## How to reach me
+- www.mutaal-khan.github.io/khan-portfolio/
+- instagram: mutaalkhan_
 <!---
 
 - 👋 Hi, I’m @Mutaal-Khan
