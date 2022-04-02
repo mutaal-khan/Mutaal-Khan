@@ -18,15 +18,17 @@ I'm glad we are here together and we are trying to make progress.
     Section: Technologies & Tools
     ------------------------------
 -->
-<p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/tech-tool.png" /></p>
+##<p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/tech-tool.png" /></p>
 <!--
     ----------------------------
     Section: Currently Learning
     ----------------------------
 -->
+
 ## Currently Learning
 - SASS
 - JavaScript
+
 <!--
     -----------------------
     Section: Interested in
@@ -45,6 +47,7 @@ I'm glad we are here together and we are trying to make progress.
 - Python
 - Adobe Illustration
 - Photoshope
+
 <!--
     -------------------------
     Section: Recent Projects
