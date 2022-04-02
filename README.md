@@ -1,7 +1,7 @@
 [<p align="center"><img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/readme_header.png" /></p>](https://www.google.com/)
 # Hi, I am Mutaal Khan
 I am 20 years old and I am pursuing my goals and developing my talent with love and effort.
-[<img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/readme_header.png" />]
+[<img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/hi.gif" />]
 <!---
 
 - 👋 Hi, I’m @Mutaal-Khan
