@@ -3,7 +3,7 @@
 I am pursuing my goals and developing my talent with love and effort.
 I'm glad we are here together and we are trying to make progress.
 
-[<p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/technologies-tools-title.png" /></p>]
+<p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/technologies-tools-title.png" /></p>
 <!---
 
 - 👋 Hi, I’m @Mutaal-Khan
