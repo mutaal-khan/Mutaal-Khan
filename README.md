@@ -8,12 +8,38 @@
 <!--
     Introduction
     Waving hand transparent emoji - hi - name
+    Short paragraph.
 -->
 # <img alt="[KHAN] Header png" width="42px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/hi.gif" /> Hi, I am Mutaal Khan
 I am pursuing my goals and developing my talent with love and effort.
 I'm glad we are here together and we are trying to make progress.
-
+<!--
+    ------------------------------
+    Section: Technologies & Tools
+    ------------------------------
+-->
 <p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/technologies-tools-title.png" /></p>
+<!--
+    ----------------------------
+    Section: Currently Learning
+    ----------------------------
+-->
+<!--
+    -----------------------
+    Section: Interested in
+    -----------------------
+-->
+<!--
+    -------------------------
+    Section: Recent Projects
+    -------------------------
+-->
+
+<!--
+    -------------------------
+    Section: How to reach me
+    -------------------------
+-->
 <!---
 
 - 👋 Hi, I’m @Mutaal-Khan
