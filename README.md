@@ -19,7 +19,14 @@ I'm glad we are here together and we are trying to make progress.
     Section: Technologies & Tools
     ------------------------------
 -->
-##<p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/tech-tool.png" /></p>
+## Technologies
+- Code: HTML
+- Code: CSS
+- Code: JavaScript
+- Code: SASS
+- Editor: VS Code
+- OS: Windows 10
+
 <!--
     ----------------------------
     Section: Currently Learning
@@ -42,6 +49,7 @@ I'm glad we are here together and we are trying to make progress.
 - GitHub
 - Git
 - React
+- Linux
 - Node.js
 - Vue.js
 - Flutter
