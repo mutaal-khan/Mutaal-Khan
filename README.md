@@ -18,7 +18,7 @@ I'm glad we are here together and we are trying to make progress.
     Section: Technologies & Tools
     ------------------------------
 -->
-<p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/technologies-tools-title1.png" /></p>
+<p align="left"><img alt="[KHAN] Technologies & Tools" width="150px" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/technologies-tools-title.png" /></p>
 <!--
     ----------------------------
     Section: Currently Learning
