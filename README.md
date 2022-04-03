@@ -19,7 +19,7 @@ I am on track to become a Software Engineer and be a part of this supportive com
     Section: Technologies & Tools
     ------------------------------
 -->
-## Technologies
+## Technologies & Tools
 - Code: HTML
 - Code: CSS
 - Code: JavaScript
