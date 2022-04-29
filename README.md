@@ -1,8 +1,8 @@
 <!--  Bismallah -->Hi 👋 My name is Mutaal Khan
 ============================
 
-Front-end
----------
+Front-end Web Developer
+-----------------------
 
 I am pursuing my goals and developing my talent with love and effort. I am glad we are here together and we are trying to make progress. I am on track to become a Software Engineer and be a part of this supportive community.
 
