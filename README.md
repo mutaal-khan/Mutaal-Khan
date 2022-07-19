@@ -16,7 +16,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 
 * 🌍  I'm based in Panjshir, Afghanistan
 * 🖥️  See my portfolio at [Mutaal Khan portfolio](http://www.mutaal-khan.github.io/khan-portfolio/)
-* ✉️  You can contact me at [2mr.mutaal@gmail.com](mailto:2mr.mutaal@gmail.com)
+* ✉️  You can contact me at [@mutaalkhan_](http://www.instagram.com/mutaalkhan_)
 * 🚀  I'm currently working on [Mutaal Khan portfolio](http://www.mutaal-khan.github.io/khan-portfolio/)
 * 🧠  I'm learning JavaScript, Bootstrap, and SASS
 * 🤝  I'm open to collaborating on Front-end web developing projects
