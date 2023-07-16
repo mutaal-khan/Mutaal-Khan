@@ -48,8 +48,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
     xE
 -->
 <p align="center">
-<a href="https://github.com/Mutaal-Khan/xE" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=xE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</p>
+<a href="https://github.com/Mutaal-Khan/xE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=xE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <br>
 <br>
 <br>
@@ -57,7 +56,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 <!--
     DivTool
 -->
-<a href="https://github.com/Mutaal-Khan/DivTool" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=DivTool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Mutaal-Khan/DivTool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=DivTool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <br>
 <br>
 <br>
@@ -68,14 +67,16 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 <br>
 <br>
 <br>
+</p>
 
 <b>My GitHub Stats</b>
-    
+<p align="center">
 <a href="https://github.com/Mutaal-Khan" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutaal-Khan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/Mutaal-Khan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutaal-Khan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <br /><br /><br /><br /><br /><br /><br />
+</p>
 
 
 
