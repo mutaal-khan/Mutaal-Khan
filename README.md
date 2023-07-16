@@ -15,6 +15,7 @@
 -----------------------
 
 #Front-end Web Developer
+---
 
 I am pursuing my goals and developing my talent with love and effort. I am glad we are here together and we are trying to make progress. I am on track to become a Software Engineer and be a part of this supportive community.
 
@@ -29,11 +30,9 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 -----------------------
 
 ## Skills
-
+----
 <p align="left">
-```
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 24 24"><path fill="currentColor" d="M11.99 22a1.001 1.001 0 0 1-.268-.037l-6.473-1.805a1 1 0 0 1-.728-.874L3.08 3.09A1 1 0 0 1 4.075 2h15.85a1 1 0 0 1 .996 1.089l-1.443 16.188a.999.999 0 0 1-.728.874l-6.491 1.812a1.001 1.001 0 0 1-.269.037Z" opacity=".5"/><path fill="currentColor" d="M16.777 6.325A1 1 0 0 0 16.04 6H7.96a1 1 0 1 0 0 2h6.987l-.177 2H10a1 1 0 0 0 0 2h4.592l-.264 2.977l-2.328.528l-2.328-.53l-.096-1.064a1 1 0 0 0-1.992.178l.16 1.79a1.001 1.001 0 0 0 .775.887l3.26.74a1.019 1.019 0 0 0 .443 0l3.26-.74a1.001 1.001 0 0 0 .774-.887l.78-8.79a1.001 1.001 0 0 0-.259-.764Z"/></svg>
-```
+<img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/html.svg" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
