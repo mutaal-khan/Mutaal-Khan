@@ -7,8 +7,7 @@
 [<p align="center"><img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/png/readme_header.png" /></p>](https://www.mutaal-khan.github.io/khan-portfolio/)
 
 
-<p>Hi <img alt="hi gif" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/gif/hi.gif"/> My name is Mutaal Khan</p>
-============================
+<p align="center">Hi <img alt="hi gif" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/gif/hi.gif"/> My name is Mutaal Khan</p>
 
 Front-end Web Developer
 -----------------------
