@@ -7,14 +7,13 @@
 [<p align="center"><img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/png/readme_header.png" /></p>](https://www.mutaal-khan.github.io/khan-portfolio/)
 
 
-<p align="center">Hi <img alt="hi gif" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/gif/hi.gif"/> My name is **Mutaal Khan**
+<p align="center">Hi <img alt="hi gif" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/gif/hi.gif"/> My name is __Mutaal Khan__
 </p>
 <br>
 <br>
 
 #Front-end Web Developer
------------------------
-
+<br>
 I am pursuing my goals and developing my talent with love and effort. I am glad we are here together and we are trying to make progress. I am on track to become a Software Engineer and be a part of this supportive community.
 
 * 🌍  I'm based in Panjshir, Afghanistan
@@ -24,6 +23,8 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 * 📚  I'm learning JavaScript, Bootstrap, and SASS
 * 💻  I'm open to collaborating on Front-end web developing projects
 * ⚡   THE BELIEVERS ARE SUCCESSFUL
+
+-----------------------
 
 ### Skills
 
