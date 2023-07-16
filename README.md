@@ -88,7 +88,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 
 ### Socials
 <p align="center"> 
-<a href="https://www.threads.net/mutaalkhan_"><img alt="Threads" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/threads.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.threads.net/mutaalkhan_"><img alt="Instagram" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.threads.net/mutaalkhan_"><img alt="Facebook" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/facebook.svg" /></a>
+<a href="https://www.threads.net/mutaalkhan_"><img alt="Threads" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/threads.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mutaalkhan_"><img alt="Instagram" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/mutaalkhan_"><img alt="Facebook" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/facebook.svg" /></a>
 </p>
 
 ### Support Me
