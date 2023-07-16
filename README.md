@@ -15,12 +15,12 @@ Front-end Web Developer
 I am pursuing my goals and developing my talent with love and effort. I am glad we are here together and we are trying to make progress. I am on track to become a Software Engineer and be a part of this supportive community.
 
 * 🌍  I'm based in Panjshir, Afghanistan
-* 🖥️  See my portfolio at [Mutaal Khan portfolio](http://www.mutaal-khan.github.io/portfolio/)
+* 👔  See my portfolio at [Mutaal Khan portfolio](http://www.mutaal-khan.github.io/portfolio/)
 * ✉️  You can contact me at [@mutaalkhan_](http://www.instagram.com/mutaalkhan_)
 * 🚀  I'm currently working on [Mutaal Khan portfolio](http://www.mutaal-khan.github.io/khan-portfolio/)
-* 🧠  I'm learning JavaScript, Bootstrap, and SASS
-* 🤝  I'm open to collaborating on Front-end web developing projects
-* ⚡  THE BELIEVERS ARE SUCCESSFUL
+* 📚  I'm learning JavaScript, Bootstrap, and SASS
+* 💻  I'm open to collaborating on Front-end web developing projects
+* ⚡   THE BELIEVERS ARE SUCCESSFUL
 
 ### Skills
 
