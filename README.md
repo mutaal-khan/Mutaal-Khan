@@ -54,8 +54,8 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
     DivTool
 -->
 <div width="50%" align="center"><a href="https://github.com/Mutaal-Khan/DivTool" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=DivTool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br />
-<br />
+<br>
+<br>
 
 <b>My GitHub Stats</b>
 <a href="https://github.com/Mutaal-Khan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutaal-Khan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -68,13 +68,13 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 
 ### Socials
 
-<p align="center"> 
+<p align="right"> 
 <a href="https://www.threads.net/mutaalkhan_"><img alt="Threads" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/threads.svg" /></a>    
     <a href="https://www.threads.net/mutaalkhan_"><img alt="Instagram" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/instagram.svg" /></a>
     <a href="https://www.threads.net/mutaalkhan_"><img alt="Facebook" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/facebook.svg" /></a>
 </p>
 
 ### Support Me
-<p align="center">
+<p align="right">
 <a href="https://www.buymeacoffee.com/mutaalkhan_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
