@@ -47,7 +47,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 <!--
     xE
 -->
-<div width="100%" align="center"><a href="https://github.com/Mutaal-Khan/DivTool" align="left"><img align="left" height="30vh" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=xE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/></a></div>
+<div width="100%" align="center"><a href="https://github.com/Mutaal-Khan/DivTool" align="left"><img align="left" width="50" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=xE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/></a></div>
 
 <br>
 <br>
