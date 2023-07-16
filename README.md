@@ -47,7 +47,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 <!--
     xE
 -->
-<a href="https://github.com/Mutaal-Khan/xE" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=xE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Mutaal-Khan/xE" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=xE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <br>
 <br>
