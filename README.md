@@ -4,7 +4,7 @@
     A transparent banner - position is center
     Link to: Portfolio
 -->
-[<p align="center"><img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/readme_header.png" /></p>](https://www.mutaal-khan.github.io/khan-portfolio/)
+[<p align="center"><img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/png/readme_header.png" /></p>](https://www.mutaal-khan.github.io/khan-portfolio/)
 
 Hi 👋 My name is Mutaal Khan
 ============================
