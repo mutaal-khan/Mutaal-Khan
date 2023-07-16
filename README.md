@@ -8,9 +8,9 @@
 
 
 <p align="center">Hi <img alt="hi gif" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/gif/hi.gif"/> My name is Mutaal Khan
-<br />
 </p>
-
+<br>
+<br>
 Front-end Web Developer
 -----------------------
 
