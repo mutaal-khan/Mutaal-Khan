@@ -41,11 +41,6 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 <img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/figma-light.svg" />
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/mutaalkhan_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mutaal-Khan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mutaalkhan_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/mutaalkhan_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mutaalkhan_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -62,6 +57,17 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 
 <div width="100%" align="center"><a href="https://github.com/Mutaal-Khan/DivTool" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mutaal-Khan&repo=DivTool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
 
+
+### Socials
+
+<p align="center"> 
+[<img alt="Threads" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/threads.svg" />](https://www.instagram.com/mutaalkhan_/)
+[<img alt="Instagram" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/instagram.svg" />](https://www.instagram.com/mutaalkhan_/)
+[<img alt="Facebook" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/facebook.svg" />](https://www.instagram.com/mutaalkhan_/)
+</p>
+
+### Support Me
+<p align="center">
 <a href="https://www.buymeacoffee.com/mutaalkhan_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</p>
