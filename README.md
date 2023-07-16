@@ -42,12 +42,14 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 <br>
 <br>
 <br>
+</p>
+
 <b>Desire to learn:</b>
+<p align="center">
 <img alt="react" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/react-light.svg" />
 <img alt="threejs" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/threejs-light.svg" />
 <img alt="webgl" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/webgl.svg" />
 </p>
-
 ### Badges
 <b>Top Repositories</b>
 
