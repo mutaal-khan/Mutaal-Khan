@@ -30,14 +30,14 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 ## Skills
 
 <p align="center">
-<img alt="HTML" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/html-new.svg" />
-<img alt="CSS" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/css.svg" />
-<img alt="Bootstrap" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/bootstrap.svg" />
-<img alt="TailwindCSS" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/tailwindcss-light.svg" />
-<img alt="SASS" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/sass.svg" />
-<img alt="JavaScript" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/javascript.svg" />
-<img alt="Adobe Illustrator" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/adobe-illustrator.svg" />
-<img alt="Adobe XD" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/adobe-xd.svg" />
+<img alt="HTML" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/html-new.svg" />&nbsp;
+<img alt="CSS" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/css.svg" />&nbsp;
+<img alt="Bootstrap" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/bootstrap.svg" />&nbsp;
+<img alt="TailwindCSS" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/tailwindcss-light.svg" />&nbsp;
+<img alt="SASS" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/sass.svg" />&nbsp;
+<img alt="JavaScript" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/javascript.svg" />&nbsp;
+<img alt="Adobe Illustrator" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/adobe-illustrator.svg" />&nbsp;
+<img alt="Adobe XD" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/adobe-xd.svg" />&nbsp;
 <img alt="Figma" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/figma-light.svg" />
 <br>
 <br>
@@ -46,10 +46,12 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 
 <b>Desire to learn:</b>
 <p align="center">
-<img alt="react" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/react-light.svg" />
-<img alt="threejs" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/threejs-light.svg" />
+<img alt="react" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/react-light.svg" />&nbsp;
+<img alt="threejs" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/threejs-light.svg" />&nbsp;
 <img alt="webgl" width="auto" src="https://github.com/mutaal-khan/mutaal-khan/blob/main/src/images/svg/webgl.svg" />
 </p>
+<br>
+
 ### Badges
 <b>Top Repositories</b>
 
@@ -58,6 +60,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 -->
 <p align="center">
 <a href="https://github.com/mutaal-khan/xE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mutaal-khan&repo=xE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<br>
 <br>
 <!--
     DivTool
