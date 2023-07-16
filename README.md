@@ -62,9 +62,9 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 ### Socials
 
 <p align="center"> 
-[<img alt="Threads" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/threads.svg" />](https://www.instagram.com/mutaalkhan_/)
-[<img alt="Instagram" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/instagram.svg" />](https://www.instagram.com/mutaalkhan_/)
-[<img alt="Facebook" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/facebook.svg" />](https://www.instagram.com/mutaalkhan_/)
+<a href="https://www.threads.net/mutaalkhan_"><img alt="Threads" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/threads.svg" /></a>
+<a href="https://www.threads.net/mutaalkhan_"><img alt="Instagram" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/instagram.svg" /></a>
+<a href="https://www.threads.net/mutaalkhan_"><img alt="Facebook" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/facebook.svg" /></a>
 </p>
 
 ### Support Me
