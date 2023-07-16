@@ -67,20 +67,12 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 
 
 
-<p align="right"> 
 ### Socials
-<a href="https://www.threads.net/mutaalkhan_"><img alt="Threads" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/threads.svg" /></a>  
-    
-&nbsp;&nbsp;&nbsp;
-    
-<a href="https://www.threads.net/mutaalkhan_"><img alt="Instagram" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/instagram.svg" /></a>
-    
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.threads.net/mutaalkhan_"><img alt="Facebook" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/facebook.svg" /></a>
+<p align="right"> 
+<a href="https://www.threads.net/mutaalkhan_"><img alt="Threads" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/threads.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.threads.net/mutaalkhan_"><img alt="Instagram" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.threads.net/mutaalkhan_"><img alt="Facebook" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/facebook.svg" /></a>
 </p>
 
-<p align="right">
 ### Support Me
+<p align="right">
 <a href="https://www.buymeacoffee.com/mutaalkhan_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
