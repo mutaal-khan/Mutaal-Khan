@@ -15,7 +15,7 @@
 -----------------------
 
 #Front-end Web Developer
----
+-
 
 I am pursuing my goals and developing my talent with love and effort. I am glad we are here together and we are trying to make progress. I am on track to become a Software Engineer and be a part of this supportive community.
 
@@ -28,8 +28,8 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 * ⚡   THE BELIEVERS ARE SUCCESSFUL
 
 ## Skills
-----
-<p align="left">
+
+<p align="space-between">
 <img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/html-new.svg" />
 <img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/css.svg" />
 <img alt="[KHAN] Header png" width="auto" src="https://github.com/Mutaal-Khan/Mutaal-Khan/blob/main/src/images/svg/bootstrap.svg" />
