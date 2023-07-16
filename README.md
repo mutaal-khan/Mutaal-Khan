@@ -23,7 +23,7 @@ I am pursuing my goals and developing my talent with love and effort. I am glad 
 * 👔  See my portfolio at [Mutaal Khan portfolio](http://www.mutaal-khan.github.io/portfolio/)
 * 📧  You can contact me at [@mutaalkhan_](http://www.instagram.com/mutaalkhan_)
 * 🚀  I'm currently working on [xE](http://www.mutaal-khan.github.io/xE/)
-* 📚  I'm learning JavaScript, Bootstrap, and SASS
+* 📚  I'm learning JavaScript
 * 💻  I'm open to collaborating on Front-end web developing projects
 * ⚡   THE BELIEVERS ARE SUCCESSFUL
 
